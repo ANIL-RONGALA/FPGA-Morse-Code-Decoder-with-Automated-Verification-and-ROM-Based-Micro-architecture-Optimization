@@ -146,4 +146,6 @@ Contributions and derivatives are welcome under the terms of the LICENSE
 
 ## ✍ Acknowledgment
 ---
-This repository’s structure, documentation, and design were drafted utilizing conventional digital design practices. A minor portion of the documentation text was refined using AI-based tools for clarity and polish; all hardware logic, Verilog code, simulation frameworks, and overall architecture are original work of the author.
+
+This project was developed under the academic guidance of [Dr. Yuha Chen](https://www.ece.uh.edu/faculty/chen-yuhua), Department of Electrical and Computer Engineering, University of Houston.
+A small amount of AI assistance was used solely for documentation refinement. All RTL and verification environment work is original
